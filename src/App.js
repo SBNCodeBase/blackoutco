@@ -1,9 +1,11 @@
 import HomeScreen from './HomeScreen';
+import LandingPage from './LandingPage';
 
 function App() {
   return (
     <div className="App">
-      <HomeScreen></HomeScreen>
+    <HomeScreen/>
+      <LandingPage/>
     </div>
   );
 }
