@@ -5,6 +5,7 @@ export default function LandingPage() {
     <div>
       Landing page
     dchbdjfgvba
+    fvbhksrugvr
     </div>
   )
 }
